@@ -1,3 +1,4 @@
 # STRIVE-HOMEWORK-FULL-STACK
 
-![](Screenshot[8].png)
+
+<img src="https://github.com/arb1ona/STRIVE-HOMEWORK-FULL-STACK/issues/3#issue-686605453">
