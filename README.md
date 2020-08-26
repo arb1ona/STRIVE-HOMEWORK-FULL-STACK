@@ -7,4 +7,4 @@
 
 ### ACCESS TOKEN + REFRESHED TOKEN
 
-<img src="https://user-images.githubusercontent.com/63557021/91356104-67080400-e7ef-11ea-90ce-ddb57f579650.png"
+<img src="https://user-images.githubusercontent.com/63557021/91356104-67080400-e7ef-11ea-90ce-ddb57f579650.png">
